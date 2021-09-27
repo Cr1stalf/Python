@@ -1,0 +1,6 @@
+# a) if (a > 100 and b > 100)
+# b) if (a % 2 == 0 or b % 2 == 0)
+# c) if (a > 0 or b > 0)
+# d) if (a % 3 == 0 and b % 3 == 0 and c % 3 == 0)
+# e) if ((a < 50) and (b >= 50) and (c >= 50)) or (( a> 50) and (b < 50) and (c >= 50)) or ((a >= 50) and (b >= 50) and (c < 50)
+# f) if (a < 0 or b < 0 or c < 0)

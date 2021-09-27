@@ -1,0 +1,10 @@
+x = int(input())
+f = x // 100
+s = x // 10 % 10
+t = x % 10
+print(f, s, t, sep=(''))
+print(f, t, s, sep=(''))
+print(s, f, t, sep=(''))
+print(s, t, f, sep=(''))
+print(t, f, s, sep=(''))
+print(t, s, f, sep=(''))
